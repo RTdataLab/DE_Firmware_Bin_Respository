@@ -1,5 +1,6 @@
 AirDeep
 
+https://raw.githubusercontent.com/RTdataLab/DE_Firmware_Bin_Respository/main/AirDeep/AirDeepCar_v103.bin
 https://raw.githubusercontent.com/RTdataLab/DE_Firmware_Bin_Respository/main/AirDeep/AirDeepCar_v102.bin
 https://raw.githubusercontent.com/RTdataLab/DE_Firmware_Bin_Respository/main/AirDeep/AirDeep_v006.bin
 https://raw.githubusercontent.com/RTdataLab/DE_Firmware_Bin_Respository/main/AirDeep/AirDeep_v005.bin
